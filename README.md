@@ -2,6 +2,7 @@
 
 CV
 ----
+[CV in English](https://drive.google.com/open?id=0B_4vKCxSxDLIUjZvVnFCQlBfd00)
 [CV in French](https://drive.google.com/open?id=0B_4vKCxSxDLIUjZvVnFCQlBfd00)
 
 Code School
