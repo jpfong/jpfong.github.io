@@ -1,2 +1,2 @@
-# jpfong.github.io
+# Jean-Philippe Fong
 CV: 
