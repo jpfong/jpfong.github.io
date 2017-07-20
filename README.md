@@ -1,7 +1,7 @@
 # Jean-Philippe Fong
-Jean-Philippe Fong
+
+CV
 ----
-CV: 
 
 Code School
 ----
