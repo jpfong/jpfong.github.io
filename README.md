@@ -7,6 +7,6 @@ CV
 
 Code School
 ----
-5 Courses, 25 Levels Completed, 43690 Total Points 
+6 Courses, 28 Levels Completed, 48190 Total Points 
 
 [Check out my progress](https://www.codeschool.com/users/1760941)
