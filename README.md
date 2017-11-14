@@ -4,6 +4,7 @@ CV
 ----
 * [CV in English](https://drive.google.com/open?id=0B_4vKCxSxDLIMkNIcUNiQ2ZyYTg)
 * [CV in French](https://drive.google.com/open?id=0B_4vKCxSxDLIUjZvVnFCQlBfd00)
+* [LinkedIn](https://www.linkedin.com/in/jpfong/)
 
 Code School
 ----
